@@ -1,8 +1,10 @@
 # have-fun
 A Python-based fullscreen lock screen application with a custom background image, password authentication,
-
 background music. Additionally, it integrates AutoHotkey to disable specific keyboard keys.
 
+
+## Password
+1234 you can change it 
 ## Features
 
 - **Fullscreen Mode**: Runs the application in fullscreen mode, making it suitable for locking a computer.
